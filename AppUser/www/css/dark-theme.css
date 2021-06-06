@@ -38,7 +38,7 @@ ons-bottom-toolbar, #reviews_list_item, .review-item-list {
 }
 
 .cream_header h3, .frm_changepass .text-input--material, .frm_address_book .select-input--material, .frm_address_book .text-input--material, .frm_creditcard .select-input--material, .frm_creditcard .text-input--material, .frm_profile .text-input--material, .stic-item-title {
-	color: #fcfcfc;
+	color: #FF5D5D;
 	text-shadow: 1px 0 #fcfcfc;
 }
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.bargaingrub.customer" versionCode="1.5.6" version="1.5.6">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.bargaingrub.customer" versionCode="1.5.8" version="1.5.8">
   <name>Bargain Grub</name>
   <description>
         Bargain Grub
     </description>
-  <author email="bastikikang@gmail.com" href="http://cordova.io">
+  <author email="apapatp@gmail.com" href="http://cordova.io">
         bargaingrub.com
     </author>
   <content src="index.html"/>
@@ -56,11 +56,6 @@
   <platform name="ios">
     <allow-intent href="tel:*"/>
     <allow-navigation href="tel:*" />
-
-    <allow-intent href="mailto:*"/>
-    <allow-navigation href="mailto:*" />
-
-
     <resource-file src="www/beep.wav"/>
      <preference name="WKWebViewOnly" value="true"/>
     <feature name="CDVWKWebViewEngine">
